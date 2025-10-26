@@ -1,5 +1,5 @@
 ## ⚠️ Disclaimer  
-This PowerShell script is a personal side-project primarily developed for my individual use and specific system configuration.  
+This PowerShell script is a personal side-project primarily developed for my individual use and specific system configuration. 
 It is hosted publicly on GitHub for convenience and as a backup, not as a formally supported or productized tool. 
 
 <br/>
@@ -19,6 +19,7 @@ It is hosted publicly on GitHub for convenience and as a backup, not as a formal
 **Support will be extremely limited / non-existent** as this was intended solely for my own personal use. Issues will not be regularly monitored, and pull requests or feature requests are unlikely to be addressed.  
 <br/>
 Users are expressly **permitted to fork this repository and make any changes** they deem necessary to adapt the script for their own needs.  
+<br/>
 By using this script, you acknowledge that you are responsible for any modifications, debugging, or troubleshooting required to make it work on your specific system.  
 
 <br/>
@@ -49,5 +50,5 @@ A custom PowerShell script that automates the launch of a manual install of Comf
 
 ## ⚖️ Liability Limitation  
 > [!CAUTION]
-> **In no event shall the repository owner be liable for any damages (including, without limitation, lost profits, data loss, or system damage) arising out of the use or inability to use this software.**  
-> <ins>You assume all responsibility and risk for the use of this script.</ins>
+> In no event shall the repository owner be liable for any damages (including, without limitation, lost profits, data loss, or system damage) arising out of the use or inability to use this software.  
+> **You assume all responsibility and risk for the use of this script.**
