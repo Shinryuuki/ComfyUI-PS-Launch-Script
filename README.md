@@ -11,7 +11,7 @@ It is hosted publicly on GitHub for convenience and as a backup, not as a formal
 <br/>
 
 > [!NOTE]
-> This script is mostly tailored towards **AMD RDNA4 systems (specifically gfx1201) running ROCm natively on Windows** and is designed around that architecture's environment and requirements.  
+> This script is mostly tailored towards **AMD RDNA4 systems (specifically gfx1201) running [ROCm natively on Windows](https://github.com/ROCm/TheRock/blob/main/RELEASES.md)** and is designed around that architecture's environment and requirements.  
 > It can be adapted to work with NVIDIA GPUs, though it will require some tweaking (e.g., environment variables) by the user to function correctly.
 
 <br/>
